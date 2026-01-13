@@ -1,0 +1,7 @@
+openai
+langchain
+chromadb
+streamlit
+pymupdf
+python-dotenv
+pytest
